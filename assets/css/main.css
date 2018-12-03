@@ -99,10 +99,10 @@ input, select, textarea {
 		}
 
 	body, input, textarea, select {
-		font-family: 'Source Sans Pro';
+		font-family: 'Poppins', sans-serif;
 		font-weight: 300;
 		color: #5d5d5d;
-		font-size: 14pt;
+		font-size:12pt;
 		line-height: 1.75em;
 	}
 
@@ -2102,7 +2102,7 @@ input, select, textarea {
 				#nav > ul > li.current > a {
 					background: #e7295b;
 					color: #fff !important;
-					font-weight: 700;
+					font-weight: 200;
 				}
 
 	.dropotron {
@@ -2156,7 +2156,7 @@ input, select, textarea {
 /* Banner */
 
 	#banner {
-		background: #CCE8F4 url("../../images/pic01.jpg");
+		background: #00A188 url("../../images/pic01.jpg");
 		background-position: center center;
 		background-size: auto 100%;
 		background-repeat: no-repeat;
@@ -2175,7 +2175,7 @@ input, select, textarea {
 
 			#banner header h2 {
 				color: #fff;
-				font-weight: 700;
+				font-weight: 70;
 				font-size: 2.5em;
 				margin: 0 0 0.65em 0;
 			}
@@ -2196,16 +2196,16 @@ input, select, textarea {
 	}
 
 		#intro section {
-			margin: 3em 0;
-			padding: 2.5em 0;
+			margin: 6em 7;
+			padding: 1.5em 0;
 		}
 
 		#intro h2 {
-			font-size: 1.75em;
+			font-size: 1.05em;
 		}
 
 		#intro p {
-			margin: 0;
+			margin: ;
 		}
 
 		#intro .middle {
@@ -2242,7 +2242,7 @@ input, select, textarea {
 		}
 
 		#intro footer {
-			margin: 0;
+			margin: 30;
 		}
 
 /* Main */
@@ -2557,7 +2557,7 @@ input, select, textarea {
 				}
 
 					#titleBar .toggle:before {
-						font-family: FontAwesome;
+					  font-family: 'Oranienbaum', serif;
 						text-decoration: none;
 						font-style: normal;
 						font-weight: normal;
@@ -2860,6 +2860,7 @@ input, select, textarea {
 						font-size: 1.5em;
 						line-height: 1.5em;
 						margin: 0 0 0.25em 0;
+
 					}
 
 					#banner header p {

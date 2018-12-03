@@ -1,3 +1,11 @@
 @import url('https://fonts.googleapis.com/css?family=Baloo');
 h1 {
   font-family: 'Baloo', cursive;}
+
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,400i,500,600,700,700i,800,800i,900');
+h2 {
+font-family: 'Poppins', sans-serif;}
+
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+p {
+font-family: 'Poppins', sans-serif;}
