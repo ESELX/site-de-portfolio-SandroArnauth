@@ -82,8 +82,9 @@ input, select, textarea {
 		box-sizing: inherit;
 	}
 
+
 	body {
-		background: #252122;
+		background: #000000;
 		background-image: url("images/bg02.png");
 	}
 
@@ -107,7 +108,7 @@ input, select, textarea {
 	}
 
 	strong, b {
-		color: #252122;
+		color: #000000;
 		font-weight: 400;
 	}
 
@@ -134,7 +135,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #252122;
+		color: #000000;
 		font-weight: 700;
 	}
 
@@ -1442,7 +1443,7 @@ input, select, textarea {
 
 	form label {
 		display: block;
-		color: #252122;
+		color: #000000;
 		font-weight: 400;
 		margin: 0 0 0.5em 0;
 	}
@@ -1554,7 +1555,7 @@ input, select, textarea {
 		}
 
 			header.major h2 {
-				background: #fff;
+				background: #000000;
 				position: relative;
 				top: -0.65em;
 				display: inline;
@@ -1648,7 +1649,7 @@ input, select, textarea {
 		input[type="reset"].alt,
 		button.alt,
 		.button.alt {
-			background: #252122;
+			background: #000000;
 		}
 
 			input[type="button"].alt:hover,
@@ -2024,11 +2025,11 @@ input, select, textarea {
 			}
 
 			.icon.featured.alt {
-				background-color: #252122;
+				background-color: #000000;
 			}
 
 				.icon.featured.alt:after {
-					border-top-color: #252122;
+					border-top-color: #000000;
 				}
 
 			.icon.featured.alt2 {
@@ -2056,7 +2057,7 @@ input, select, textarea {
 	}
 
 		#header h1 {
-			color: #252122;
+			color: #000000;
 			font-weight: 900;
 			font-size: 2.5em;
 			letter-spacing: -0.035em;
@@ -2100,14 +2101,14 @@ input, select, textarea {
 				}
 
 				#nav > ul > li.current > a {
-					background: #e7295b;
+					background: #ea2483;
 					color: #fff !important;
 					font-weight: 200;
 				}
 
 	.dropotron {
 		border-radius: 5px;
-		background-color: #252122;
+		background-color: #000000;
 		background-color: rgba(34, 30, 31, 0.98);
 		padding: 1.25em 1.5em 1.25em 1.5em;
 		font-style: italic;
@@ -2149,14 +2150,14 @@ input, select, textarea {
 				top: -9px;
 				border-left: solid 10px transparent;
 				border-right: solid 10px transparent;
-				border-bottom: solid 10px #252122;
+				border-bottom: solid 10px #000000;
 				border-bottom-color: rgba(34, 30, 31, 0.98);
 			}
 
 /* Banner */
 
 	#banner {
-		background: #00A188 url("../../images/pic01.jpg");
+		background: #ffffff url("img src="images/pic01.jpg"");
 		background-position: center center;
 		background-size: auto 100%;
 		background-repeat: no-repeat;
@@ -2167,21 +2168,20 @@ input, select, textarea {
 	}
 
 		#banner header {
-			background-color: rgba(34, 30, 31, 0.98);
+			background-color: #000000;
 			display: inline-block;
-			padding: 2.5em 5em;
-			border-radius: 5px;
+			padding: 2.5em 5em;00
 		}
 
 			#banner header h2 {
-				color: #fff;
+				color: #EA2483;
 				font-weight: 70;
 				font-size: 2.5em;
 				margin: 0 0 0.65em 0;
 			}
 
 			#banner header p {
-				color: #d52349;
+				color: #ffffff;
 				padding: 0;
 				font-style: normal;
 				margin: 0;
@@ -2202,6 +2202,8 @@ input, select, textarea {
 
 		#intro h2 {
 			font-size: 1.05em;
+			font-style: italic;
+			font-family:
 		}
 
 		#intro p {
@@ -2302,7 +2304,7 @@ input, select, textarea {
 			}
 
 		#footer ul.contact li, #footer ul.dates li, #footer ul.divided li {
-			border-top-color: #353434;
+			border-top-color: #000000;
 			border-top-color: rgba(255, 255, 255, 0.05);
 		}
 
@@ -2822,7 +2824,7 @@ input, select, textarea {
 			}
 
 				#header h1 {
-					color: #252122;
+					color: #000000;
 					font-weight: 900;
 					font-size: 1.75em;
 					letter-spacing: -0.035em;
